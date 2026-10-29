@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Serif";
+    src: url("Fonts/static/NotoSerif-Black.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Sans";
+    src: url("Fonts/NotoSansCyproMinoan-Regular.ttf") format("truetype");
+    font-weight: 400;
+}
